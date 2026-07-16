@@ -27,6 +27,10 @@ git add . -> adiciona todos os arquivos;
 
 git commit -m "" -> commit do código fonte, dentro de "" colocar o que foi alterado;
 
+git remote add origin https://github.com/.......
+
+git branch -M main
+
 git log -> verifica os commits realizados;
 
 git push -u origin main -> adiciona os commits do git para o github; Necessário fazer login e permitir acesso;
