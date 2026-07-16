@@ -1,0 +1,66 @@
+RESUMO DO APRENDIZADO EM FORMA DE TEXTO
+
+1º passo
+Instalação da IDE (Visual Code, notepad+ entre outras)
+
+2º passo
+Entender os navegadores (Google Chrome) -> Utilização do DEVTOOLS (inspecionar elementos do navegador)
+
+---------------
+TAGS HTML
+h1 ao h6 -> título
+p -> parágrafo
+br -> Quebra de linha (Não é muito utilizado, pois não é profissional)
+b -> bold (negrito) - tag não semântica 
+strong -> (negrito) - tag semântica
+i -> italic (itálico) - tag não semântica
+em -> italic (itálico) - tag semântica
+
+sup -> números acima
+sub -> número abaixo
+
+
+------------------------------------
+img -> tag de imagem
+
+Ferramenta para manipulação de imagem - GIMP
+Utilizar 1920px -> como padrão de utilização de monitores
+Para resolução utilize 70% ou até 50%
+
+Recurso adicional para comprimir imagem: TinyPNG {
+    Lembrando que aceita tanto PNG quanto JPEG
+    Ele reduz o peso da imagem para não ficar pesado ao criar websites
+}
+
+-------------------------------------
+Listas
+
+ul -> Lista não ordenada
+ol -> Lista ordenada
+li -> itens da lista
+
+links
+a -> tag de link
+
+--------------------------------------------------
+Tags mais utilizadas
+<html>	Define o documento como HTML.
+<head>	Contém metadados sobre o documento (ex.: título, links de estilo).
+<title>	Define o título da página exibido na aba do navegador.
+<body>	Contém todo o conteúdo visível da página (textos, imagens, links, etc.).
+<h1> a <h6>	Títulos e subtítulos, do mais importante (h1) ao menos importante (h6).
+<p>	Define um parágrafo de texto.
+<a>	Cria links para outras páginas ou recursos.
+<img>	Insere imagens no documento.
+<ul>	Cria uma lista não ordenada (com marcadores).
+<ol>	Cria uma lista ordenada (numerada).
+<li>	Define um item dentro de listas (ul ou ol).
+<div>	Define uma divisão ou seção genérica do documento.
+<span>	Marca um trecho de texto inline para aplicar estilo ou identificação.
+<table>	Cria uma tabela.
+<tr>	Linha dentro de uma tabela.
+<td>	Célula de uma tabela.
+<form>	Define um formulário para entrada de dados do usuário.
+<input>	Campo de entrada de dados dentro de um formulário.
+<button>	Cria um botão clicável
+

@@ -1,0 +1,83 @@
+Para evitar a centralização do sistema, realizado a criação da DARPA.
+Primeira rede de computadores criada: ARPANET.
+
+Lançamento do satélite sputnik pela união soviética.
+
+4 computadores gigantes de universidades (1969) {
+SDS 9
+IBM 370
+DEC PDP-10
+SDS SIMGMA
+};
+
+1973 (35 nós) {Reino Unido e Noruega}
+
+1977 (mais de 100 nós)
+
+1981 (mais de 200 nós)
+
+1983 (Mais de 500 nós) {
+Divisão MILNET (rede militar) / NSFNET (rede acadêmica de pesquisa)
+};
+
+-------------------------
+NCP -> Network Control Protocol
+
+TCP-IP e a padronização da comunicação (Funcionava como um tradutor universal) {
+SMTP - Envio de email
+FTP -> Transferência de arquivos
+HTTP -> abertura de páginas
+DNS -> Tradução de domínios
+}
+
+Aplicação -> transporte (protocolos usados TCP (integridade) ou UDP (velocidade sem integridade) -> internet (IP de origem e destino) -> rede (placa de rede e estrutura física da rede)
+
+
+HISTÓRIA DA INTERNET
+
+Chegada da era da internet discada (Conexão nos anos 90 e 2000 - Ocupação da linha telefônica)
+
+Computador -> Modem -> Telefone -> Provedor de internet
+
+Banda larga {
+Infraestrutura separada com cabos específicos de internet;
+}
+
+Roteador de wifi {
+Modem com conexão sem cabeamento
+}
+
+Redes móveis{
+Conexão de qualquer lugar de forma rápida atráves de torres de telefonia
+}
+
+A CRIAÇÃO DA WORLD WIDE WEB (www)
+Tecnologias fundamentais {
+HTML -> Linguagem de marcação de texto;
+HTTP -> Protocolo de comunicação entre navegadores e computadores;
+URL -> Solução do problema de saber o que desejo acessar (sistema de endereçamento);
+};
+
+Primeiro navegador criado = worldwideweb (1990)
+segundo = mosaic (1993)
+terceiro = netscape (1994)
+quarto = Internet Explorer (1995)
+quinto = Safari (2003)
+Sexto = Firefox (2004)
+sétimo = Google Chrome (2008)
+oitavo = Edge (2015)
+nono = Versões Mobile (2020+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+Comandos no terminal:
+
+pwd -> Mostra o local que estou no computador no momento;
+
+ls -> lista a pasta que estamos;
+
+dir (directory) or ls -> Lista os arquivos da pasta;
+
+cd (change directory)-> Entra na pasta selecionada;
+
+cd .. -> Volta um nível da pasta;
+
+mkdir -> Cria uma pasta; Ex: mkdir pasta-teste
+
+clear -> limpa o terminal;
+
+--------------------------------------------------------------------------------
+
+Comandos do GIT:
+git config --global user.name "Seu nome"
+git config --global user.email "Seu e-mail do github"
+git config --list 
+
+git status -> verifica quais arquivos não foram commitados;
+
+git add . -> adiciona todos os arquivos;
+
+git commit -m "" -> commit do código fonte, dentro de "" colocar o que foi alterado;
+
+git log -> verifica os commits realizados;
+
+git push -u origin main -> adiciona os commits do git para o github; Necessário fazer login e permitir acesso;
+
+git push -> utilizar após já ter dado o primeiro push no projeto;
+
+git pull -> Puxa as alterações feitas no github;
+
+---------------------------------------------------------------------------------
+
+Para baixar os arquivos do github:
+git clone url informada no github;
+
+---------------------------------------------------------------------------------
+BRANCHES
+O que é: Cópia paralela da branch principal afim de trabalhar de forma profissional;
+
+git branch -> verifica as branches existentes;
+
+git branch -> cria uma nova branch;
+
+git checkout nome-da-branch;
+
+git branch -m feat/aumenta-fonte-do-titulo (alteração do nome da branch)
+
+
+git push --set-upstream origin feature/aumenta-font-do-titulo
+
+{
+OBS: Para modificações e novas funcionalidades: feat ou feature/descricao-da-modificacao;
+
+OBS: Para correções de problemas: fix ou bugfix/descricao-do-problemas;
+
+OBS: Para modificação urgente na main: hotfix/descricao-do-problema;
+}
+
+

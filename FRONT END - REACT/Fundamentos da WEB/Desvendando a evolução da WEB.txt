@@ -1,0 +1,16 @@
+HTML - HYPERTEXT MARKUP LANGUAGE
+Estrutura do site
+
+CSS ->  Cascade Style Sheet
+Apresentação/Aparência
+
+Javascript
+Dinamismo/Ação
+
+
+CHEGADA DOS TELEFONES MÓVEIS
+Necessidade de responsividade nos projetos de desenvolvimento WEB
+
+
+
+

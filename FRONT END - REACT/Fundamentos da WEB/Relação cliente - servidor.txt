@@ -1,0 +1,46 @@
+REDES
+
+LAN -> Local Area Network (rede local)
+
+MAN -> Metropolitan Area Network (rede metropolitana)
+
+WAN -> Wide Area Network, rede ampla, como a internet (internet)
+
+--------------
+
+Cliente 
+->
+Requisição
+->
+Navegador
+->
+Requisição
+->
+Servidor
+
+Cliente faz uma *requisição* para o navegador que faz uma *requisição* para o servidor e o servidor devolve como *resposta* para o navegador como *resposta* que devolve para o cliente como *resposta*;
+
+--------------------
+
+Como os dados são enviados?
+
+TCP -> Divide dados em pacotes e garante que cheguem ao destino;
+
+IP -> endereço númerico. ex: 192.168.0.1;
+
+DNS ->  Agenda que converte domínio em IPs;
+
+ROTEADORES -> Funcionam como GPS, indicam a melhor rota;
+
+
+comandos CMD {
+ping
+tracert
+nslookup
+}
+
+Abra o navegador e vá na aba "NETWORK" para visualizar o tempo das requisições e analisar as latências e caminhos
+
+
+
+
